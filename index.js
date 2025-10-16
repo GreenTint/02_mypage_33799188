@@ -10,9 +10,9 @@ const htmlContent = `
     <title>Welcome to Alamagan’s Page</title>
 </head>
 <body>
-    <h1>Hello, I’m Alamagan!</h1>
+    <h1>Hello, I am Alamagan!</h1>
     <h2>A Computer Science Student and Aspiring Data Engineer</h2>
-    <p>I’m currently in my third year studying computer science. I enjoy learning about data systems and coding in Python, and I’m excited to explore projects that solve real-world problems.</p>
+    <p>I am currently in my third year studying computer science. I enjoy learning about data systems and coding in Python, and I am excited to explore projects that solve real-world problems.</p>
 </body>
 </html>
 `;
