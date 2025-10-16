@@ -18,7 +18,7 @@ const htmlContent = `
 `;
 
 http.createServer(function(req, res) { 
-    res.writeHead(200, { "Content-Type": "text/html" }); 
+    res.writeHead(200, { "Content-Type": "text/html; charset=utf-8" });
     res.end(htmlContent); 
 }).listen(port, function() { 
     console.log(`Node server is running on port ${port}...`); 
